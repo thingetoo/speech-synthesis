@@ -1,5 +1,5 @@
 # Text 2 Speech
-> Type in your message and hear that message play back to you in different voices.
+> Type in your message and hear it played back to you! Select different voices and event change the speed and pitch of the sound.
 
 ## Table of contents
 * [General info](#general-info)
